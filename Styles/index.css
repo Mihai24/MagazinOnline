@@ -1,0 +1,14 @@
+body{
+	padding:10px;
+	padding-bottom:80px;
+}
+
+.ul_index_display{
+	border-top: 1px solid #ddd;
+}
+
+.li_index_display{
+	width: 25%;
+	display: inline-block;
+	vertical-align: top;
+}
